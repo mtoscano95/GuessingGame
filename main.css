@@ -1,0 +1,19 @@
+/* Write your CSS code in this file */
+
+body {
+    background-image: url(https://as1.ftcdn.net/v2/jpg/02/16/47/82/1000_F_216478284_QajEzRCBF7NonZoqnoiZZgQps553UTql.jpg);
+    background-size: cover;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+    height: auto;
+}
+button{
+    background-color: lightblue;
+    border-color:black;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
